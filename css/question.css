@@ -1,0 +1,8 @@
+.question {
+    margin-bottom: 180px;
+}
+.question_form {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}

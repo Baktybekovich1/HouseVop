@@ -1,0 +1,25 @@
+.header {
+    position: absolute;
+    width: 100%;
+    top: 30px;
+}
+
+.header_container {
+    margin: 0 auto;
+    max-width: 1110px;
+}
+
+.header_content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_list {
+    display: flex;
+    list-style: none;
+    font-family: 'Raleway';
+}
+
+.header_li {
+    margin-left: 40px
+}

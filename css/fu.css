@@ -1,0 +1,25 @@
+
+.fu {
+    margin-top: 120px;
+
+}
+.fu_content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fu_element {
+    width: 20%;
+    text-align: center;
+    margin: 0 35px;
+}
+
+.fu_title {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 27px;
+    margin-top: 53px;
+}
+

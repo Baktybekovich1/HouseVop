@@ -1,0 +1,13 @@
+.video {
+    margin-bottom: 180px;
+}
+
+.video_iframe {
+    width: 67.77%;
+    height: 650px;
+    opacity: 0.5;
+
+}
+.video_content {
+    text-align: center;
+}
